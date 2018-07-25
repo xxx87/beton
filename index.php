@@ -6,7 +6,7 @@ $ini = parse_ini_file('./config/config.ini');
 <head>
 	<meta charset="UTF-8">
 	<title>ABD&#183;BETON</title>
-	<meta name="description" content="Якісний бетон ✔ Індивідуальний підхід до кожного клієнта ✔  ☎ +38 (067) 914-83-77">
+	<meta name="description" content="Якісний бетон ✔ Індивідуальний підхід до кожного клієнта ✔  ☎ +38 (067) 000-00-00">
 	<meta name="keywords" content="бетон, цемент, Киев, бетономешалка, песок, щебень, груша">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -29,7 +29,7 @@ $ini = parse_ini_file('./config/config.ini');
     </div>
     <div class="text-header">
         <p>Цінова пропозиція на продукцію</p>
-        <p>Телефон для замовлення:&#8195;<a class="telephone" href="tel:0679148377">&#9742;<span>&#8194;(067)&#8194;914-83-77</span></a></p>
+        <p>Телефон для замовлення:&#8195;<a class="telephone" href="tel:0679148377">&#9742;<span>&#8194;(067)&#8194;000-00-00</span></a></p>
     </div>
     <div class="prices">
         <table id="prices" class="table table-bordered table-responsive">
@@ -46,7 +46,7 @@ $ini = parse_ini_file('./config/config.ini');
             <tr class="tr-title"><td colspan="2">Ціна 1 м.куб. грн P12</td><td><?php print $ini['M50_P12'];?></td><td><?php print $ini['M75_P12'];?></td><td><?php print $ini['M100_P12'];?></td><td><?php print $ini['M150_P12'];?></td><td><?php print $ini['M200_P12'];?></td></tr>
             <tr><td colspan="8"></td></tr>
             <tr class="tr-title"><td colspan="8"><strong>Доставка</strong></td></tr>
-            <tr><td colspan="8"><strong>Доставка прораховується індивідуально. <br>Детальні умови доставки Ви можете дізнатись за телефоном: <a class="telephone" href="tel:0679148377"><span>(067) 914-83-77</span></a></strong></td></tr>
+            <tr><td colspan="8"><strong>Доставка прораховується індивідуально. <br>Детальні умови доставки Ви можете дізнатись за телефоном: <a class="telephone" href="tel:0679148377"><span>(067) 000-00-00</span></a></strong></td></tr>
         </tbody>
         </table>
     </div>
